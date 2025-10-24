@@ -1,0 +1,5 @@
+2025-10-01 12:00:00 INFO Started service
+2025-10-01 12:01:00 ERROR Connection refused: db.example.com
+2025-10-01 12:02:00 ERROR Connection refused: db.example.com
+2025-10-01 12:03:00 WARN High memory usage
+2025-10-01 12:04:00 ERROR Timeout while calling external API
