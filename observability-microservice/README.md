@@ -56,6 +56,16 @@ project_root/
 │
 └── data/                   # Auto-created SQLite DB storage
 ```
+Screen shorts of the working model
+
+<img width="1366" height="768" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/a06fa939-feb3-44a5-a728-d507bac10193" />
+------login page ----------
+
+<img width="1366" height="768" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/aa960b01-f74c-42b5-9ddd-c93a0e9aea8b" />
+--------Dashboard with all the information ---------
+
+<img width="1366" height="768" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/24aea9dc-31a1-4d76-904d-29e6bd0d80e6" />
+-------- Visualization of the CPU and Memory utilization with realtime data display ---------------
 
 ---
 
